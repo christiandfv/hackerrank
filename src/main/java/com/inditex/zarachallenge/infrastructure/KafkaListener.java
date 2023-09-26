@@ -15,7 +15,7 @@ public class KafkaListener {
 	public Consumer<Message<ProductAvailablityEvent>> KafkaConsumer() {
 		return message -> {
 			// TODO: Insert code in this Consumer
-
+				
 		};
 	}
 
